@@ -1,0 +1,13 @@
+Supplier,Product Type,Price,Date
+Supplier 1,Apple Type 1,125.2,2024-06-05
+Supplier 1,Apple Type 2,150.25,2024-06-05
+Supplier 1,Pear Type 1,131.10,2024-06-05
+Supplier 1,Pear Type 2,121.0,2024-06-05
+Supplier 2,Apple Type 1,136.70,2024-06-05
+Supplier 2,Apple Type 2,112.50,2024-06-05
+Supplier 2,Pear Type 1,135.80,2024-06-05
+Supplier 2,Pear Type 2,111.30,2024-06-05
+Supplier 3,Apple Type 1,164.50,2024-06-05
+Supplier 3,Apple Type 2,133.0,2024-06-05
+Supplier 3,Pear Type 1,121.50,2024-06-05
+Supplier 3,Pear Type 2,181.30,2024-06-05
